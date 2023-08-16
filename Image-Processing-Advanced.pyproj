@@ -44,6 +44,8 @@
     <Content Include="dog_backpack.jpg" />
     <Content Include="rainbow.jpg" />
     <Content Include="requirements.txt" />
+    <Content Include="sammy.jpg" />
+    <Content Include="sammy_noise.jpg" />
     <Content Include="watermark_no_copy.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
