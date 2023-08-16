@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>623f38c1-d785-4f9b-ba49-7b06d2db4044</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Image_Thresholding.py</StartupFile>
+    <StartupFile>Image_Blurring.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Blending_And_Pasting_Images.py" />
+    <Compile Include="Image_Blurring.py" />
     <Compile Include="Image_Thresholding.py" />
   </ItemGroup>
   <ItemGroup>
@@ -38,6 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="bricks.jpg" />
     <Content Include="crossword.jpg" />
     <Content Include="dog_backpack.jpg" />
     <Content Include="rainbow.jpg" />
